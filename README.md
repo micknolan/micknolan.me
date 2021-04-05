@@ -1,1 +1,1 @@
-# micknolan.me
+Personal website coded using Next.js (https://nextjs.org/).
